@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="name_input_label">Введите ваше имя</string>
+    <string name="name_input_placeholder">Анатолий</string>
+    <string name="greet_button_text">Приветствую</string>
+    <string name="calc_title">Калькулятор</string>
+    <string name="calc_input_hint">Введите число</string>
+    <string name="calc_button_add">Сложить</string>
+    <string name="calc_button_subtract">Вычесть</string>
+</resources>
